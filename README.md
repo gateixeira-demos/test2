@@ -1,1 +1,1 @@
-# test2 - workflows
+# test2 - required workflows
